@@ -41,6 +41,7 @@
 			<artifactId>spring-boot-devtools</artifactId>
 			<scope>runtime</scope>
 			<optional>true</optional>
+			<!-- test -->
 		</dependency>
 
 		<!-- Database Layer (SQLite + Hibernate) -->
